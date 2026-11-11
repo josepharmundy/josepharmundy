@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 IT Fundamentals & Practical Home Labs:</h2>
 
-  - [Active Directroy Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Memory Wipe Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Directroy Home Lab](https://github.com/josepharmundy/ActiveDirectoryLab/tree/main)
+  - [Memory Wipe Home Lab]
 
 
 <h2>📄 Certifications</h2>
